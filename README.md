@@ -4,6 +4,10 @@ The project revolves around the implementation of a Long Short-Term Memory (LSTM
 
 The choice of LSTM is rooted in its adeptness at capturing temporal patterns and addressing gradient vanishing issues often encountered in conventional recurrent neural networks (RNN).
 
+## Demonstration
+
+![time_series](time-series.png)
+
 ## Model
 
 This model's capacity to comprehend sequences with enduring dependencies renders it particularly well-suited for applications like time series forecasting.
